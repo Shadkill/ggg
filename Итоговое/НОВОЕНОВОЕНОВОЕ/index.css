@@ -1,0 +1,1505 @@
+body{
+    background-color: #282828;
+    height: 7383px;
+    max-width: 1920px;
+    margin: 0;
+    padding: 0;
+}
+.buttontext{
+  text-decoration: none;
+  color: #282828;
+}
+.Logo1{
+    display: flex;
+    margin-top: 49px;
+    margin-left: 203px; 
+}
+.questions{
+    display: flex;
+margin-left: 439px;
+margin-top: -104px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+color: #FFFFFF;
+text-decoration: none;
+}
+.information{
+display: flex;
+width: 206px;
+height: 44px;
+margin-left: 665px;
+margin-top: -44px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+color: #FFFFFF;
+text-decoration: none;
+}
+.info{
+display: flex;
+width: 100px;
+height: 44px;
+margin-left: 1404px;
+margin-top: -44px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+color: #FFFFFF;
+text-decoration: none;
+}
+.Contacts{
+    display: flex;
+width: 151px;
+height: 44px;
+margin-left: 1589px;
+margin-top: -44px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+color: #FFFFFF;
+text-decoration: none;
+}
+.text1{
+    display: flex;
+width: 984px;
+height: 261px;
+margin-left: 425px;
+margin-top: 211px;
+margin-right: 511px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 87px;
+color: #FFFFFF;
+}
+.button1{
+    display: flex;
+align-items: center;
+justify-content: center;
+width: 461px;
+height: 75px;
+margin-left: 425px;
+margin-top: -30px;
+border-radius: 90px;
+background-color: #FFFFFF;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 55px;
+color: #282828;
+align-items: center;
+}
+.button1:hover{
+background-color: #E5C39A;
+}
+.Line1{
+    width: 1560px;
+height: 0px;
+margin-left: 180px;
+margin-top: 225px;
+border: 1px solid #E5C39A;
+}
+.Coffe1{
+    width: 560px;
+    height: 551px;
+    margin-left: 312px;
+    margin-top: -505px;
+}
+.Zagolovok1{
+    width: 567px;
+    height: 54px;
+    margin-left: 846px;
+    margin-top: 181px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 71px;
+    color: #E5C39A;
+}
+.text2{
+width: 762px;
+height: 275px;
+margin-left: 846px;
+margin-top: 49px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 55px;
+color: #FFFFFF;
+}
+.Line2{
+    width: 1560px;
+height: 0px;
+margin-left: 180px;
+margin-top: 116px;
+border: 1px solid #E5C39A;
+}
+.Zagolovok2{
+    width: 920px;
+height: 71px;
+margin-left: 472px;
+margin-top: 104px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 52px;
+line-height: 71px;
+color: #E5C39A;
+}
+.one_circle{
+    width: 103px;
+height: 103px;
+margin-left: 455px;
+margin-top: 82px;
+}
+.one_cause{
+width: 853px;
+height: 73px;
+margin-left: 587px;
+margin-top: -100px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 44px;
+color: #FFFFFF;
+}
+.two_circle{
+    width: 103px;
+height: 103px;
+margin-left: 455px;
+margin-top: 28px;
+}
+.two_cause{
+    width: 720px;
+height: 83px;
+margin-left: 587px;
+margin-top: -100px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 44px;
+color: #FFFFFF;
+}
+.three_circle{
+    width: 103px;
+height: 103px;
+margin-left: 455px;
+margin-top: 28px;
+}
+.three_cause{
+    width: 752px;
+height: 70px;
+margin-left: 587px;
+margin-top: -100px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 32px;
+line-height: 44px;
+color: #FFFFFF;
+}
+.block4{
+ 
+    width:auto;
+    height: 1920px;
+    margin: 0;
+    padding: 0;
+    margin-top: 105px;
+background: #E5C39A;
+box-shadow: 0px 12px 20px rgba(0, 0, 0, 0.5), 0px -12px 20px rgba(0, 0, 0, 0.5);
+}
+.Zagolovok3{
+  padding-top: 50px;
+    width: 634px;
+height: 85.12px;
+margin-left: 643px;
+margin-top: 50px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 87px;
+text-align: center;
+color: #E5C39A;
+} 
+ .Zagolovok4{
+    
+    width: 1177px;
+height: 83px;
+margin-left: 372px;
+margin-top: -50.12px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 64px;
+line-height: 87px;
+color: #E5C39A;
+}
+.QR{
+ 
+    margin-left: 455px;
+    width: 300px;
+height: 300px;
+left: 455px;
+margin-top: 135px;
+background: #fff;
+border-radius: 50px;
+}
+.Forms {
+    
+    margin-top: -460px;
+    margin-left:929px;
+    width: 760px;
+    height: 580.86px;
+    background: #3e2e33;
+    border-radius: 30px;
+  }
+  .Zakaz {
+    width: 320.29px;
+    height: 43px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #fbd6bc;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+    margin-left: 228px;
+    padding-top: 30px ;
+  }
+  .InputNum{
+    width: 657.49px;
+    height: 24.06px;
+    background: #ffffff;
+    border: 1px solid #000000;
+    padding: 20px;
+    border-radius: 30px;
+    margin-left: 38.86px;
+    margin-top: 23.24px;
+    font-size:22px ;
+  
+  
+  }
+  .InputArea {
+    width: 657.49px;
+    height: 24.06px;
+    background: #ffffff;
+    border: 1px solid #000000;
+    padding: 20px;
+    border-radius: 30px;
+    margin-left: 38.86px;
+    margin-top: 45.66px;
+    font-size:22px ;
+  }
+  .CheckButton{
+      box-sizing: border-box;
+  width: 24.97px;
+  height: 24.97px;
+  
+  margin-left: 20px;
+
+  background: #FFFFFF;
+  border: 1px solid #000000;
+  border-radius: 30px;
+  }
+  .confirmForm{
+      margin-left: 40px;
+      display: flex;
+      justify-content: left;
+      align-items: center;
+      font-size: 17px;
+      color:  white;
+  }
+  .confirmFormText{
+      margin-left: 10px;
+  }
+  .Button2{
+    box-sizing: border-box;
+width: 477.71px;
+height: 58.63px;
+margin-left: 148.74px;
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 30px;
+  }
+  .Zagolovok5{
+    
+    width: 1057px;
+height: 74px;
+margin-top: 250px;
+margin-left: 485px;
+padding-top: 50px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 52px;
+line-height: 71px;
+text-align: center;
+color: #282828;
+  }
+  .Photo1{
+    width: 606px;
+height: 341px;
+margin-left: 375px;
+margin-top: 97px;
+
+  }
+  .Photo2{
+    width: 532px;
+height: 797px;
+margin-left: 1024px;
+margin-top: -345px;
+
+  }
+  .Photo3{
+    display:flex;
+    width: 606px;
+height: 404px;
+margin-left: 375px;
+margin-top: -408.5px;
+
+  }
+  .Photo4{
+    width: 1181px;
+height: 733px;
+margin-left: 375px;
+margin-top: 52px;
+  }
+  .Line3{
+    width: 1560px;
+height: 0px;
+margin-left: 179px;
+margin-top: 89px;
+border: 1px solid #FBD6BC;
+  }
+  .Zagolovok6{
+    width: 213px;
+height: 63px;
+margin-left: 860px;
+margin-top: 106px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 52px;
+line-height: 63px;
+color: #E5C39A;
+  }
+  .review1{
+    width: 594px;
+height: 364px;
+margin-left: 337px;
+margin-top: 78px;
+background: #FBD6BC;
+border-radius: 60px;
+  }
+  .avatar1{
+    margin-left: 19px;
+    margin-top: 19px;
+    width: 116px;
+    height: 116px;
+  }
+  .Name1{
+    margin-top: -100px;
+    margin-left: 37px;
+    font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 49px;
+text-align: center;
+color: #282828;
+  }
+  .Date1{
+    width: 162px;
+height: 24px;
+    margin-top: -10px;
+    margin-left: 135px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+  }
+  .miniLine1{
+    width: 483.02px;
+height: 0px;
+border: 1px solid #000000;
+margin-left: 50px;
+margin-top: 11px;
+  }
+  .textreview1{
+    width: 495px;
+height: 144px;
+    font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 36px;
+line-height: 49px;
+color: #000000;
+margin-left: 38px;
+margin-top: 22px;
+  }
+  .review2{
+    width: 594px;
+    height: 364px;
+    margin-left: 337px;
+    margin-top: 49px;
+    background: #FBD6BC;
+    border-radius: 60px;
+
+  }
+  .review3{
+    width: 594px;
+    height: 364px;
+    margin-left: 993px;
+    margin-top: -777px;
+    background: #FBD6BC;
+    border-radius: 60px;
+  }
+  .review4{
+    width: 594px;
+    height: 364px;
+    margin-left: 993px;
+    margin-top: 49px;
+    background: #FBD6BC;
+    border-radius: 60px;
+  }
+.Footer{
+    display: flex;
+    width: auto;
+height: 809px;
+left: 0px;
+margin-top: 185px;
+background: #FBD6BC;
+box-shadow: 0px -20px 20px rgba(0, 0, 0, 0.3);
+}
+.aboutUs{
+    width: 100px;
+height: 44px;
+margin-left: 352px;
+margin-top: 98px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+color: #000000;
+text-decoration: none;
+}
+.career{
+    width: 116px;
+height: 38px;
+margin-left: -110px;
+margin-top: 160px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 38px;
+color: #000000;
+text-decoration: none;
+}
+.CorporateSales{
+    width: 364px;
+height: 38px;
+margin-left: -230px;
+margin-top: 216px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 38px;
+color: #000000;
+text-decoration: none;
+}
+.WherecanIbuy{
+    width: 170px;
+height: 38px;
+margin-left: -250px;
+margin-top: 272px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 38px;
+color: #000000;
+text-decoration: none;
+}
+.Logo2{
+    width: 154px;
+height: 154px;
+margin-left: 415px;
+margin-top: 102px;
+}
+.legal{
+    width: 133px;
+height: 44px;
+margin-left: 400px;
+margin-top: 98px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+color: #000000;
+text-decoration: none;
+}
+.Confidentially{
+    width: 259px;
+height: 38px;
+margin-left: -188px;
+margin-top: 160px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 38px;
+color: #000000;
+text-decoration: none;
+}
+.Conditions{
+    width: 113px;
+height: 38px;
+margin-left: -200px;
+margin-top: 216px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 38px;
+color: #000000;
+text-decoration: none;
+}
+.Patents{
+    width: 118px;
+    height: 38px;
+    margin-left: -115px;
+    margin-top: 272px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 38px;
+    color: #000000;
+    text-decoration: none;
+}
+.Logo3{
+    width: 154px;
+height: 154px;
+margin-left: -1330px;
+margin-top: 456px;
+}
+.Corporation{
+    width: 290px;
+height: 41px;
+margin-left: 60px;
+margin-top: 489px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 41px;
+color: #000000;
+}
+.Allrightsreserved{
+    width: 255px;
+height: 32px;
+margin-left: -270px;
+margin-top: 538px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+}
+.LineFooter1{
+    width: 327px;
+height: 0px;
+margin-left: -90px;
+margin-top: 522px;
+border: 1px solid #000000;
+transform: rotate(90.18deg);
+}
+.Zagolovok7{
+    width: 250px;
+height: 44px;
+margin-top: 417px;
+margin-left: -60px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 44px;
+color: #000000;
+}
+.VK{
+    width: 58px;
+height: 58px;
+margin-top: 511px;
+margin-left: -275px;
+}
+.Telegram{
+    width: 58px;
+    height: 58px;
+    margin-top: 511px;
+    margin-left: 63px;
+}
+.Facebook{
+    width: 58px;
+    height: 58px;
+    margin-top: 511px;
+    margin-left: 63px;
+}
+.tiktok{
+    width: 58px;
+    height: 58px;
+    margin-top: 599px;
+    margin-left: -300px;
+}
+.Twitter{
+    width: 58px;
+    height: 58px;
+    margin-top: 599px;
+    margin-left: 63px;
+}
+.Instagram{
+    width: 58px;
+    height: 58px;
+    margin-top: 599px;
+    margin-left: 63px;
+}
+.LineFooter2{
+    width: 327px;
+    height: 0px;
+    margin-left: -105px;
+    margin-top: 522px;
+    border: 1px solid #000000;
+    transform: rotate(90.18deg);
+}
+.Support{
+    width: 183px;
+height: 44px;
+margin-left: 0px;
+margin-top: 413px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+color: #000000;
+text-decoration: none;
+}
+.Contacts2{
+    width: 132px;
+    height: 38px;
+    margin-left: -175px;
+    margin-top: 475px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 44px;
+    color: #000000;
+    text-decoration: none;
+}
+.Return{
+    width: 113px;
+height: 38px;
+margin-left: -115px;
+margin-top: 531px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 38px;
+color: #000000;
+text-decoration: none;
+}
+.Help2{
+    width: 114px;
+height: 38px;
+margin-left: -115px;
+margin-top: 587px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 38px;
+color: #000000;
+text-decoration: none;
+}   
+.image1{
+        display: none;
+      }
+      .Header2{
+        display: none;
+      }
+      .container{
+        display: none;
+      }
+      .str1{
+        display: none;
+      }
+      .str2{
+        display: none;
+      }
+      .review11{
+        display: none;
+      }
+      .review22{
+        display: none;
+      }
+      .review33{
+        display: none;
+      }
+      .review44{
+        display: none;
+      }
+      .Gallery2{
+        display: none;
+      }
+
+@media screen and (max-width: 400px) and (min-width:320px) {
+    .Header2{
+        display: flex;
+      }
+      .Header{
+        display: none;
+      }
+    .dropbtn {
+        background-color: #4CAF50;
+        color: white;
+        padding: 16px;
+        font-size: 16px;
+        border: none;
+      }
+      .dropdown {
+        position: relative;
+        display: inline-block;
+      }
+      .dropdown-content {
+        margin-top: -35px;
+        right: 5px;
+        display: none;
+        position: absolute;
+        background-color: #282828;
+        min-width: 160px;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        z-index: 1;
+        border-radius: 10px;
+      }
+      .dropdown-content a {
+        color: #E5C39A;  
+        padding: 12px 16px;
+        text-decoration: none;
+        font-size: 24px;
+        font-family:'Inter', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+        display: block;
+      }
+   
+      .dropdown-content a:hover {
+        border-radius: 9px;
+        background-color: #E5C39A;
+      color:#282828;
+      }
+      .dropdown:hover .dropdown-content {
+        display: block;
+      }
+      .dropdown:hover .dropbtn {background-color:#282828 ;}
+      .dropdown-content hr{
+        margin: 0 auto;
+        height: 0px;
+        width: 152px ;
+        border: 1px solid #E5C39A;
+      }
+      
+    .Header2{
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+    }
+    .image1{
+      display: flex;
+      width: 39px;
+      height: 35px;
+      margin-top: 34px;
+      margin-right: 31px;
+
+    }
+    .Logo1{
+      width: 97px;
+  height: 97px;
+  margin-left: 32px;
+  margin-top: 16px;
+    }
+    .text1{
+      display: flex;
+      width: 250px;
+      height: 75px;
+  margin-left: 32px;
+  margin-right: 38px;
+  margin-top: 7px;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  color: #FFFFFF;
+    }
+    .button1{
+      width: 128px;
+  height: 27px;
+  margin-left: 157px;
+  margin-right: 35px;
+  margin-top: 15px;
+  font-family: 'Inter', sans-serif;
+font-style: bold;
+font-weight: 700;
+font-size: 16px;
+line-height: 22px;
+text-align: center;
+color: #000000;
+    }
+    .Line1{
+        width: 235px;
+        height: 0px;
+        margin-left: 37px;
+        margin-top: 42px;
+    }
+    .Coffe1{
+        margin-top: 23px;
+        width: 123px;
+    height: 121px;
+    margin-left: 90px;
+    }
+    .Zagolovok1{
+        margin-top: 26px;
+        width: 80%;
+        height: 27px;
+        margin-left:33px;
+        margin-right:26px;
+        font-family: 'Inter', sans-serif;
+font-style: bold;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+color: #E5C39A;
+    }
+    .text2{
+         width: 205px;
+height: 95px;
+font-family: 'Inter', sans-serif;
+font-style: bold;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+color: #FFFFFF;
+margin-left:53px;
+margin-top:6px;
+    }
+    .Line2{
+      width: 235px;
+      height: 0px;
+      margin-left: 37px;
+      margin-top: 11px;
+    }
+    .Zagolovok2{
+      width: 257px;
+height: 24px;
+margin-left: 25px;
+margin-top: 8px;
+font-family:'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+color: #E5C39A;
+    }
+    .one_circle{
+      width: 42px;
+height: 42px;
+margin-left: 133px;
+margin-top: 11px;
+    }
+    .one_cause{
+      width: 153px;
+height: 97px;
+margin-left: 78px;
+margin-top: 6px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+color: #FFFFFF;
+    }
+    .two_circle{
+      width: 42px;
+height: 42px;
+margin-left: 133px;
+margin-top: 17px;
+    }
+    .two_cause{
+      width: 153px;
+height: 57px;
+margin-left: 78px;
+margin-top: 14px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+
+color: #FFFFFF;
+    }
+    .three_circle{
+      width: 42px;
+height: 42px;
+margin-left: 133px;
+margin-top: 17px;
+    }
+    .three_cause{
+      width: 153px;
+height: 73px;
+margin-left: 78px;
+margin-top: 6px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+text-align: center;
+color: #FFFFFF;
+    }
+    .block4{
+      width: 100%;
+      margin-top: 50px;
+height: 411px;
+    }
+    .Zagolovok3{
+      width: 137px;
+height: 38px;
+margin-left: 88px;
+margin-top: 2px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #E5C39A;
+    }
+    .block4{
+      width:auto;
+height: 411px;
+    }
+    .Zagolovok4{
+      width: 286px;
+height: 65px;
+margin-left: 17px;
+margin-top: -30px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+
+color: #E5C39A;
+    }
+    .QR{
+      width: 71px;
+height: 72px;
+margin-left: 121px;
+margin-top: -10px;
+border-radius: 10px;
+    }
+    .Forms{
+      width: 221px;
+height: 200px;
+margin-left: 51px;
+margin-top: 17px;
+border-radius: 10px;
+    }
+    .Zakaz{
+      padding-top: 6px;
+      margin-left: 59px;
+      width: 101px;
+height: 17.31px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #FBD6BC;
+
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+    }
+    .InputNum{
+      margin-top: -5px;
+      margin-left: 19px;
+      width: 175px;
+      height: 20px;
+      background: #FFFFFF;
+      border: 1px solid #000000;
+      font-size: 10px;
+      padding: 2px;
+      border-radius: 10px;
+    }
+    .InputArea{
+      width: 175px;
+      height: 20px;
+      margin-top: 10px;
+      margin-left: 19px;
+      background: #FFFFFF;
+      border: 1px solid #000000;
+      font-size: 10px;
+      padding: 2px;
+      border-radius: 10px;
+    }
+    .CheckButton{
+      width: 15px;
+      height: 15px;
+      margin-left: -18px;
+      margin-top: -7px;
+    }
+    .confirmFormText{
+      width: 166.01px;
+      height: 25.42px;
+      margin-left: 2px;
+      margin-top: 5px;
+      
+      font-family: 'Inter', sans-serif;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 10px;
+      line-height: 12px;
+      
+      color: #FFFFFF;
+      
+      text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+    }
+    .Button2{
+      width: 122px;
+height: 20.19px;
+margin-top: 0px;
+margin-left: 49px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+border-radius: 10px;
+    }
+    .Gallery{
+      display: none;
+    }
+    .Gallery2{
+      display: block;
+    }
+    .Zagolovok5{
+      width: 307px;
+height: 62px;
+margin-left: 8px;
+margin-top: 23px;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+text-align: center;
+color: #282828;
+    }
+    .slide1{
+      width: 228px;
+      height: 152px;
+    }
+    .slide2{
+      width: 150px;
+      height: 152px;
+    }
+    .slide3{
+      width: 228px;
+      height: 152px;
+    }
+    .slide4{
+      width: 228px;
+      height: 152px;
+    }
+    .Line3{
+      width: 235px;
+height: 0px;
+margin-left: 41px;
+margin-top: 40px;
+border: 1px solid #E5C39A;
+    }
+    .Zagolovok6{
+      width: 97px;
+height: 29px;
+margin-left: 115px;
+margin-top: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #E5C39A;
+    }
+    .reviews{
+      display: none;
+    }
+    .review11{
+      display: block;
+    }
+    .review22{
+      display: block;
+    }
+    .review33{
+      display: block;
+    }
+    .review44{
+      display: block;
+    }
+    .review11{
+      width: 182px;
+height: 112px;
+      background-color: #E5C39A;
+      border-radius: 30px;
+      margin-top: 20px;
+      
+    }
+    .review22{
+      width: 182px;
+height: 112px;
+      background-color: #E5C39A;
+      border-radius: 30px;
+      margin-top: -112px;
+      margin-left: 190px;
+    }
+    .review33{
+      width: 182px;
+height: 112px;
+      background-color: #E5C39A;
+      border-radius: 30px;
+      margin-top: -112px;
+      margin-left: 380px;
+    }
+    .review44{
+      width: 182px;
+height: 112px;
+      background-color: #E5C39A;
+      border-radius: 30px;
+      margin-top: -112px;
+      margin-left: 570px;
+    }
+    .avatar11{
+      width: 37px;
+height: 37px;
+margin-left: 13px;
+margin-top: 11px;
+
+    }
+    .Name11{
+      width: 113px;
+height: 16px;
+margin-left: 40px;
+margin-top: -30px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 14px;
+text-align: center;
+
+color: #282828;
+    }
+    .Name12{
+      width: 113px;
+height: 16px;
+margin-left: 50px;
+margin-top: -30px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 10px;
+line-height: 14px;
+text-align: center;
+
+color: #282828;
+    }
+    .Date11{
+      width: 100px;
+height: 15px;
+margin-left: 47px;
+margin-top: -15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+text-align: center;
+
+color: #000000;
+    }
+    .miniLine11{
+      position: relative;
+      width: 140px;
+height: 0px;
+margin-left: 19px;
+top: -9px;
+border: 1px solid #000000;
+    }
+    .textreview11{
+      width: 156px;
+      height: 34px;
+      margin-left: 8px;
+      margin-top: -10px;
+      
+      font-family: 'Inter', sans-serif;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 10px;
+      line-height: 14px;
+      text-align: center;
+      
+      color: #000000;
+    }
+.Logo2{
+  width: 127px;
+height: 127px;
+margin-left: 98px;
+margin-top: 6px;
+}
+.career{
+  display: none;
+}
+.CorporateSales{
+  display: none;
+}
+.WherecanIbuy{
+  display: none;
+}
+.legal{
+  display: none;
+}
+.Confidentially{
+  display: none;
+}
+.Conditions{
+  display: none;
+}
+.Patents{
+  display: none;
+}
+
+.LineFooter1{
+  display: none;
+}
+.LineFooter2{
+  display: none;
+}
+.Corporation{
+  width: 193px;
+  height: 27px;
+  margin-left: -156px;
+  margin-top: 141px;
+  
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 17px;
+  
+  color: #000000;
+}
+.Logo3{
+  display: none;
+}
+.Allrightsreserved{
+  width: 149px;
+height: 18px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+
+color: #000000;
+margin-left: -172px;
+margin-top: 163px;
+}
+.GorizontLineFooter1{
+  width: 200px;
+height: 0px;
+margin-left: -139px;
+margin-top: 204px;
+
+border: 1px solid #000000;
+}
+.Zagolovok7{
+  width: 167px;
+height: 27px;
+margin-left: -165px;
+margin-top: 223px;
+text-align: end;
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+}
+.VK{
+  width: 31px;
+height: 31px;
+margin-left: -168px;
+margin-top: 266px;
+}
+.Telegram{
+  width: 35px;
+height: 36px;
+margin-left: 43px;
+margin-top: 266px;
+}
+.Facebook{
+  width: 36px;
+height: 36px;
+margin-left: 43px;
+margin-top: 266px;
+}
+.tiktok{
+  width: 31.89px;
+height: 31px;
+margin-left: -188px;
+margin-top: 320px;
+}
+.Twitter{
+  width: 35px;
+height: 35px;
+margin-left: 42px;
+margin-top: 320px;
+}
+.Instagram{
+  width: 36px;
+height: 35px;
+margin-left: 44px;
+margin-top: 320px;
+}
+.GorizontLineFooter2{
+  width: 200px;
+height: 0px;
+margin-left: -198px;
+margin-top: 372px;
+border: 1px solid #000000;
+}
+.aboutUs{
+  display: none;
+}
+.Support{
+  width: 70px;
+  height: 16px;
+  margin-left: -235px;
+  margin-top: 391px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+/* identical to box height */
+
+
+color: #000000;
+}
+.Help2{
+  width: 62px;
+height: 16px;
+margin-left: -62px;
+margin-top: 392px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+
+color: #000000;
+
+}
+.Contacts2{
+  width: 69px;
+height: 14px;
+margin-left: 146px;
+margin-top: 391px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+
+color: #000000;
+}
+.Return{
+  width: 62px;
+height: 16px;
+margin-left: -170px;
+margin-top: 420px;
+
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 19px;
+
+color: #000000;
+}
+body{
+  height: 2653px;
+  max-width: 321px;
+}
+.Footer{
+  width: 320px;
+  height: 482px;
+  margin-top: 80px;
+}
+
+}
