@@ -14,29 +14,29 @@
   <div class="dropdown" >
     <img class="image1" src="фото/Group 19.png" alt="">
    <div class="dropdown-content">
-     <a href="#">Вопросы</a>
+     <a href="#cause">Причины</a>
      <hr>
-     <a href="#">Информация</a>
+     <a href="#information">Информация</a>
      <hr>
-     <a href="#">Контакты</a>
+     <a href="#otzivi">Отзывы</a>
      <hr>
-     <a href="#">О нас</a>
+     <a href="#Gallery">Галерея</a>
    </div>
  </div>
 </div> 
     <header class="Header">
       <img src="фото/Group 11.png" class="Logo1">
-        <a href="#" class="questions">Вопросы</a>
-        <a href="#" class="information">Информация</a>
-        <a href="#" class="info">О нас</a>
-        <a href="#" class="Contacts">Контакты</a>
+        <a href="#cause" class="questions">Причины</a>
+        <a href="#information" class="information">Информация</a>
+        <a href="#otzivi" class="info">Отзывы</a>
+        <a href="#Gallery" class="Contacts">Галерея</a>
     </header>
     <div class="Block1">
         <p class="text1">У нас вы можете заказать
             самый вкусный кофе, по самой
             низкой цене в мире!!!</p>
-            <button class="button1">Подробнее</button>
-            <img src="фото/Line 23.png" class="Line1">
+            <button class="button1"><a href="#form" class="buttontext">Подробнее</a></button>
+            <img src="фото/Line 23.png" class="Line1" id="information">
     </div>
     <div class="block2">
         <p class="Zagolovok1">Coffee Espresso Gold</p>
@@ -45,7 +45,7 @@
             даруют потрясающий вкус и 
             приятное кисленькое послевкусие</p>
         <img src="фото/Group 27.png" class="Coffe1">
-            <img src="фото/Line 23.png" class="Line2">
+            <img src="фото/Line 23.png" class="Line2" id="cause">
     </div>
     <div class="block3">
         <p class="Zagolovok2">Причины брать кофе именно у нас:</p>
@@ -61,44 +61,8 @@
             <p class="three_cause">Мы дарим подарки и делаем розыгрыши нашим любимым покупателям</p>
         
     </div>
-    <div class="block4">
-        <p class="Zagolovok3">АКЦИЯ!!!</p>
-        <p class="Zagolovok4">При заказе по QR-коду скидка 20%</p>
-        <img src="фото/qr.png" class="QR" alt="" />
-        <form>
-          <div class="Forms">
-            <p class="Zakaz">Заказать кофе</p>
-            <input
-              class="InputNum"
-              type="tel"
-              placeholder="Введите номер телефона"
-              pattern="[7]{1}[0-9]{10}"
-              required=""
-              minlength="11"
-              maxlength="12"
-            />
-            <input
-              class="InputArea"
-              type="text"
-              placeholder="Город"
-              required=""
-              minlength="3"
-              maxlength="40"
-            />
-            <input
-              class="InputArea" type="text" placeholder="Как к вам обращаться" required="" />
-              <div class="confirmForm">        
-              <input class="CheckButton" type="checkbox" required="" />
-            <p class="confirmFormText">Даю согласие на обработку персональных данных</p>
-            </div>
-            <input type="submit" class="Button2" />
-          </div>
-        </form>
-    </div>
-
-    <div class="block5">
-      
-        <p class="Zagolovok5">Примеры нашего приготовленного кофе:</p>
+    <div class="block4" id="Gallery">
+      <p class="Zagolovok5">Примеры нашего приготовленного кофе:</p>
       <div class="Gallery">
         <div class="dd">
           <img src="фото/Галерея/image 1.png" alt="" class="Photo1">
@@ -112,17 +76,52 @@
         
 
     </div>
-    
-    <marquee behavior="alternate" scrollamount="2" >
-      <div class="Gallery2">
-        <img src="фото/Галерея/image 1.png" alt="" class="slide1">
-        <img src="фото/Галерея/image 2.png" alt="" class="slide2">
-        <img src="фото/Галерея/image 3.png" alt="" class="slide3">
-        <img src="фото/Галерея/image 4.png" alt="" class="slide4">
+      <marquee behavior="alternate" scrollamount="3" >
+        <div class="Gallery2">
+          <img src="фото/Галерея/image 1.png" alt="" class="slide1">
+          <img src="фото/Галерея/image 2.png" alt="" class="slide2">
+          <img src="фото/Галерея/image 3.png" alt="" class="slide3">
+          <img src="фото/Галерея/image 4.png" alt="" class="slide4">
+        </div>
+        </marquee>
+       
+    </div>
+
+    <div class="block5" id="form">
+    <p class="Zagolovok3">АКЦИЯ!!!</p>
+    <p class="Zagolovok4">При заказе по QR-коду скидка 20%</p>
+    <img src="фото/qr.png" class="QR" alt="" />
+    <form>
+      <div class="Forms">
+        <p class="Zakaz">Заказать кофе</p>
+        <input
+          class="InputNum"
+          type="tel"
+          placeholder="Введите номер телефона"
+          pattern="[8]{10}[0-9]"
+          required=""
+          minlength="11"
+          maxlength="12"
+        />
+        <input
+          class="InputArea"
+          type="text"
+          placeholder="Город"
+          required=""
+          minlength="3"
+          maxlength="40"
+        />
+        <input
+          class="InputArea" type="text" placeholder="Как к вам обращаться" required="" />
+          <div class="confirmForm">        
+          <input class="CheckButton" type="checkbox" required="" />
+        <p class="confirmFormText">Даю согласие на обработку персональных данных</p>
+        </div>
+        <input type="submit" class="Button2" />
       </div>
-      </marquee>
+    </form>
     
-      <img src="фото/Line 23.png" alt="" class="Line3">
+      <img src="фото/Line 23.png" alt="" class="Line3" id="otzivi">
     </div>
     <div class="block6">
       <p class="Zagolovok6">Отзывы</p>
@@ -156,7 +155,7 @@
         <p class="textreview1">Кофе топчик! Фирма реально хорошая!</p>
       </div>
     </div>
-      <marquee behavior="alternate" scrollamount="2" >
+      <marquee behavior="alternate" scrollamount="3" >
         <div class="review11">
           <img src="фото/Ellipse 1.png" alt="" class="avatar11">
           <p class="Name11">Мария Иванова</p>
